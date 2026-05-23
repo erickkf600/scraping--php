@@ -1,0 +1,18 @@
+{
+    "name": "dever/estudo",
+    "description": "estudo php",
+    "autoload": {
+        "psr-4": {
+            "Dever\\Estudo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erick Ferreira",
+            "email": "erickkf600@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
