@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Dever\Estudo\Services;
+namespace VividseatsSearch\Services;
 
-use Dever\Estudo\Contracts\TicketScraperInterface;
-use Dever\Estudo\DTOs\ScrapeResult;
-use Dever\Estudo\Models\Ticket;
+use VividseatsSearch\Contracts\TicketScraperInterface;
+use VividseatsSearch\DTOs\ScrapeResult;
+use VividseatsSearch\Models\Ticket;
 use DOMDocument;
 use DOMElement;
 use DOMXPath;

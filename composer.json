@@ -1,9 +1,9 @@
 {
-    "name": "dever/estudo",
-    "description": "estudo php",
+    "name": "dever/vividseats-search",
+    "description": "Vivid Seats ticket scraper",
     "autoload": {
         "psr-4": {
-            "Dever\\Estudo\\": "src/"
+            "VividseatsSearch\\": "src/"
         }
     },
     "authors": [

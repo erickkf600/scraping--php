@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Dever\Estudo\DTOs;
+namespace VividseatsSearch\DTOs;
 
-use Dever\Estudo\Models\Ticket;
+use VividseatsSearch\Models\Ticket;
 
 /**
  * DTO del resultado del scraping.

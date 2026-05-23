@@ -1,4 +1,4 @@
-# Scraping de Entradas (PHP + Guzzle)
+# vividseatsSearch
 
 Aplicacion web simple para un desafio tecnico junior/pleno.
 

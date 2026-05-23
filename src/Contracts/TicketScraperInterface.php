@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Dever\Estudo\Contracts;
+namespace VividseatsSearch\Contracts;
 
-use Dever\Estudo\DTOs\ScrapeResult;
+use VividseatsSearch\DTOs\ScrapeResult;
 
 /**
  * Contrato para servicios que extraen entradas desde una URL.

@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 require __DIR__ . '/vendor/autoload.php';
 
-use Dever\Estudo\DTOs\ScrapeResult;
-use Dever\Estudo\Services\TicketScraperService;
+use VividseatsSearch\DTOs\ScrapeResult;
+use VividseatsSearch\Services\TicketScraperService;
 use GuzzleHttp\Client;
 
 /**
@@ -38,7 +38,7 @@ if ($url !== '') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scraping de Entradas</title>
+    <title>VividSeats Search</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="min-h-screen bg-slate-100 text-slate-900">

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dever\Estudo\Models;
+namespace VividseatsSearch\Models;
 
 /**
  * Modelo de una entrada de evento.
